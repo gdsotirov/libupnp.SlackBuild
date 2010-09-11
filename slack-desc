@@ -1,0 +1,11 @@
+libupnp: LibUPnP (A Portable UPnP SDK)
+libupnp:
+libupnp: The portable Universal Plug and Play (UPnP) SDK provides support
+libupnp: for building UPnP-compliant control points, devices, and bridges
+libupnp: that are compliant with Version 1.0 of the Universal Plug and Play
+libupnp: Device Architecture Specification - see http://www.upnp.org/ for
+libupnp: specifications.
+libupnp:
+libupnp:
+libupnp:
+libupnp: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
