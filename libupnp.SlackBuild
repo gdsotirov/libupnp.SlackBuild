@@ -19,13 +19,13 @@
 # 
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: libupnp.SlackBuild,v 1.6 2017/05/28 10:02:18 gsotirov Exp $
+# $Id: libupnp.SlackBuild,v 1.7 2017/11/21 10:37:44 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=libupnp
-VERSION=1.6.22
+VERSION=1.6.24
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
